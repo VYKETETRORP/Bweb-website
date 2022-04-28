@@ -1,0 +1,869 @@
+.background{
+    background-color: gainsboro;
+    position: absolute;
+    width: 100%;
+    height: 10000px;
+}
+.backgroundmagin{
+   background-color: gainsboro;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.maincontentitem{
+    margin-left: 400px;
+    margin-top: -300px;
+}
+.maincontentlitem{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 380px;
+    height: 470px;
+}
+.maincontentpicture img{
+    width: 380px;
+    height: 250px;
+    border-radius: 10px 10px 0px 0px;
+}
+.maincontenttravel {
+    margin-left: 20px;
+    color: #7e22d4;
+    margin-top: 10px;
+}
+.maincontentsurfing {
+    margin-left: 20px;
+    font-size: 27px;
+    margin-top: 10px;
+
+}
+.maincontentparagrap{
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.maincontentitem{
+    display: flex;
+}
+.maincontentritempic img{
+    width: 400px;
+    height: 400px;
+    margin-left: 35px;
+    margin-top: 30px;
+    border-radius: 7px;
+
+}
+.maincontentrcon{
+    margin-left: 50px;
+
+}
+.leisue{
+    background-color:#4822d4 ;
+    border-radius: 10px;
+    width: 80px;
+    margin-left: 370px;
+    height: 30px;
+    margin-top: 30px;
+   
+    
+}
+.p{
+    color: aliceblue;
+    padding: 5px;
+}
+
+
+.maincontentitem1{
+    background-color: aliceblue;
+    margin-left: 420px;
+    margin-top: -470px;
+    display: flex;
+    height: 470px;
+    border-radius: 10px;
+}
+.outdoor{
+    font-size: 28px;
+    margin-top: 30px;
+}
+.maincontentparagrap{
+    font-size: 18px;
+}
+.maincontentrparagraph{
+    font-size: 18px;
+    margin-top: 50px;
+}
+.maincontentrparagraph{
+    margin-top: 10px;
+}
+.maincontentrpicitem img{
+    width: 140px;
+    height: 160px;
+    padding: 3px;
+    margin-left: 03px;
+    border-radius: 15px;
+   
+    
+}
+.maincontentrpic{
+    display: flex;
+    margin-top: 20px;
+}
+.iconitem{
+    background-color: #005AEE;
+    border-radius: 5px;
+    width: 320px;
+    height: 350px;
+    
+}
+.divicon{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.delivery{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+.iconparagraph{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.containicon i{
+    font-size: 60px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+    -webkit-text-fill-color: #005AEE;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+
+}
+.containicon1{
+    font-size: 60px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+    -webkit-text-fill-color: #ffa767;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+
+}
+.containicon2{
+    font-size: 60px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+    -webkit-text-fill-color: #0aacdc;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+
+}
+.containicon3{
+    font-size: 60px;
+    margin-top: 20px;
+    margin-left: 200px;
+   
+    -webkit-text-fill-color: #6d32e3;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+
+}
+.iconitem1{
+    background-color: #FFA767;
+    border-radius: 5px;
+    width: 320px;
+    height: 350px;
+   
+
+}
+.iconitem2{
+    background-color:#0AACDC ;
+    border-radius: 5px;
+    width: 320px;
+    height: 350px;
+
+}
+.iconitem3{
+    background-color: #6d32e3;
+    border-radius: 5px;
+    width: 320px;
+    height: 350px;
+
+}
+.pacel{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.quality{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.service{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.lorem2 {
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.lorem3{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.lorem4{
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.contain3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.contain3item{
+    background-color: aliceblue;
+    width: 440px;
+    height: 460px;
+    border-radius: 8px;
+}
+.contain3itempic img{
+    width: 440px;
+    height: 300px;
+    border-radius: 8px 8px 0px 0px;
+
+}
+.collection{
+    position: absolute;
+    color: white;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.contain3itempic1 img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.off-the ,.shapes ,.in-depth{
+    font-size: 24px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.malanie ,.sahara ,.benhour{
+    margin-left:170px ;
+    margin-top: 10px;
+}
+.contain3item2pic img{
+    width: 440px;
+    height: 300px;
+    border-radius: 8px 8px 0px 0px;
+
+}
+.contain3item3pic img{
+    width: 440px;
+    height: 300px;
+    border-radius: 8px 8px 0px 0px;
+  
+    
+
+}
+.contain3item2pic2 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.contain3item3pic2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 30px;
+}
+.contain3item2{
+    background-color: aliceblue;
+    width: 440px;
+    height: 460px;
+    border-radius: 8px;
+
+}
+.contain3item3{
+    background-color: aliceblue;
+    width: 440px;
+    height: 460px;
+    border-radius: 8px;
+
+}
+.containlpicture img{
+    width: 910px;
+    height: 400px;
+    border-radius: 7px;
+
+}
+
+.contain4{
+    margin-top: 30px;
+}
+.newyork{
+    position: absolute;
+    display: flex;
+}
+.newyorkicon i {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 20px;
+    height: 18px;
+    align-items: center;
+}
+.newyorkletter{
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.iconheart{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+    margin-left: 830px;
+
+}
+.must-see{
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 40px;
+    margin-top: -240px;
+
+}
+.most-see-lorem{
+    color: white;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: -120px;
+}
+.doticon{
+    color: rgb(56, 50, 50);
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 450px;
+}
+.contain4{
+    margin-top: 30px;
+}
+.containl2{
+    margin-top: 30px;
+ 
+    background-color: aliceblue;
+    border-radius: 7px;
+    width: 910px;
+    height: 230px;
+    
+    
+
+}
+.containl2item{
+    margin-left: 30px;
+    margin-top: 30px;
+    display: flex;
+    position: absolute;
+    
+   
+}
+.containl2pic1 img{
+    width: 170px;
+    height: 170px;
+    border-radius: 10px;
+}
+.containl2pic2 img{
+    width: 170px;
+    height: 170px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
+.food{
+    color: #eb109e;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.containl2title-lorem ,.fashion-lorem{
+    margin-top: 25px;
+    margin-left: 30px;
+
+}
+.fashionletter{
+    color: #0AACDC;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.contain5{
+    margin-top: 30px;
+    display: flex;
+    
+  
+}
+
+.contain5limage img{
+    width: 445px;
+    height: 240px;
+    border-radius: 7px;
+}
+.architure{
+    color: #ffa767;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 30px;
+}
+.contain5-lorem ,.contain5r-lorem{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 30px;
+    color: aliceblue;
+    
+
+}
+.contain5ritemimage img {
+    width: 445px;
+    height: 240px;
+    border-radius: 7px;
+}
+.contain5r{
+    margin-left: 20px;
+}
+.travel-leisue{
+    color: white;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 30px;
+}
+
+.latest{
+    background-color: #4822d4;
+    border-radius: 10px 10px 0px 0px;
+    width: 445px;
+    height: 40px;
+}
+.p1{
+    align-items: center;
+    margin-left: 165px;
+    margin-top: 10px;
+    position: absolute;
+    color: aliceblue;
+}
+.containritem-image img ,.containritem2-img img ,.contaonritem3-img img ,.containritem4-img img ,.containritem5-img img{
+    width: 130px;
+    height: 130px;
+    border-radius: 7px;
+}
+.containitem{
+    display: flex;
+    position: absolute;
+}
+.containr{
+    margin-top: 7px;
+    margin-left: 40px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 445px;
+
+}
+.containritem{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.containritem1 ,.containritem2 ,.containritem3 ,.containritem4 ,.containritem5{
+    display: flex;
+    padding: 8.5px;
+}
+.containr1letter ,.containritem2letter ,.technology ,.explore ,.africa{
+    margin-left: 24px;
+}
+.nature{
+    color: rgb(9, 172, 99);
+    margin-top: 27px;
+}
+.animal{
+    color: #4822d4;
+    margin-top: 27px;
+}
+.technologyle{
+    color: #ffa767;
+    margin-top: 27px;
+}
+.exploreletter{
+    color: #eb109e;
+    margin-top: 27px;
+}
+.africaletter{
+    color: #4822d4;
+    margin-top: 27px;
+}
+.containritemletter-lorem ,.animal-lorem ,.techno-lorem ,.explore-lorem ,.africa-lorem{
+    margin-top: 13px;
+}
+.hr{
+    margin-top: 30px;
+}
+.more-new{
+    margin-left: 165px;
+    margin-top: 26px;
+}
+
+
+.lastcontain{
+    margin-top: 30px;
+}
+
+.lastcontainitem{
+    margin-top: 960px;
+    position: absolute;
+}
+.greenerypimg img {
+    width: 445px;
+    height: 240px;
+    border-radius: 7px;
+}
+.greenery{
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 30px;
+    position: absolute;
+}
+.green-lorem ,.beaches-lorem{
+    margin-top: -150px;
+    margin-left: 30px;
+    position: absolute;
+    color: aliceblue;
+}
+.beaches{
+    color: aliceblue;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.beach-img img{
+    width: 445px;
+    height: 240px;
+    border-radius: 7px;
+    margin-top: 30px;
+
+
+}
+
+.virtual-img img{
+    width: 445px;
+    height: 400px;
+    border-radius: 7px;
+    margin-top: 20px;
+    
+
+}
+.virtualicon i{
+    color: red;
+ font-size: 20px;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 20px;
+    
+ 
+    
+}
+.virtual{
+    position: absolute;
+    font-size: 40px;
+    margin-top: 39px;
+    margin-left: 50px;
+
+}
+.virtual-technology{
+    color: #ffa767;
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 300px;
+}
+.containlitem4{
+    margin-top: 30px;
+
+}
+.contain-desing-education{
+    display: flex;
+    justify-content: space-between
+    
+}
+.design{
+    background-color: #35cbc1;
+    width: 205.5px;
+    height: 230px;
+    border-radius: 10px;
+}
+.designletter {
+    color: aliceblue;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+.education{
+    background-color: #5b7bcc;
+    width: 205.5px;
+    height: 230px;
+    border-radius: 10px;
+
+}
+.education-letter{
+    color: aliceblue;
+    margin-left: 57px;
+    margin-top: 30px;
+
+    
+}
+.designicon i {
+    font-size: 70px;
+    -webkit-text-fill-color: #35cbc1;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgba(22, 20, 20, 0.559);
+    margin-top: 40px;
+    margin-left: 70px;
+    
+}
+.educationicon i{
+    font-size: 70px;
+    -webkit-text-fill-color: #5b7bcc;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgba(22, 20, 20, 0.559);
+    margin-top: 40px;
+    margin-left: 67px;
+
+
+}
+
+
+
+/* lastmid */
+.lastcontainm{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-left: 20px;
+    justify-content: space-between;
+    width: 445px;
+    margin-top: 4.5px;
+    height: 1200px;
+    
+}
+
+.lastcontainitem{
+    display: flex;
+    
+}
+.news-design{
+    color: aliceblue;
+    background-color: #29a87c;
+    border-radius: 10px 10px 0px 0px;
+    height: 40px;
+}
+.new-p{
+    margin-left: 150px;
+    margin-top: 12px;
+    position: absolute;
+}
+
+
+
+.num1icon {
+    color: white;
+    background-color: #ffa767;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-top: 90px;
+    margin-left: 180px;
+    
+}
+.n1{
+    margin-top: 15px;
+    margin-left: 12px;
+    font-size: 29px;
+}
+.num-technology ,.num-devolopment{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+.num-nature ,.num-design {
+    margin-left: 178px;
+    margin-top: 20px;
+
+}
+.num-lorem{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+.numicon2{
+    color: white;
+    background-color: #5361f8;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-top: 90px;
+    margin-left: 180px;
+
+}
+.n2 ,.n3 ,.n4{
+    font-size: 29px;
+    margin-top: 15px;
+    margin-left: 12px;
+
+}
+.numicon3{
+    color: white;
+    background-color: #29a87c;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-top: 90px;
+    margin-left: 180px;
+
+}
+.numicon4{
+    color: white;
+    background-color: #35cbc1;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    margin-top: 90px;
+    margin-left: 180px;
+
+}
+.hr1{
+    margin-top: 40px;
+    width: 380px;
+    margin-left: 30px;
+    
+}
+/*lastcontainr*/
+.lastcontainrimg img{
+    width: 445px;
+    height: 605px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.latcontainritem {
+    margin-left: 40px;
+}
+.lastcontainl2{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 445px;
+    height: 570px;
+   
+}
+.lastcontainicon9{
+   
+    
+    width: 40px;
+    height: 40px;
+   
+   
+    
+
+}
+.lastcontainicon9 i{
+  font-size: 30px;
+    margin-left: 70px;
+    margin-top: 60px;
+    position: absolute;
+    background-color: black;
+   
+   
+    
+   
+    color: aliceblue;
+    border-radius: 50%;
+   
+}
+.last-new-york{
+    color: black;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.lastl-lorem{
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.read-more{
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 30px;
+    width: 140px;
+    height: 38px;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+.read{
+    color: #005AEE;
+    margin-top: 7px;
+    margin-left: 19px;
+}
+.lastcontainicon i{
+
+    color: white;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: -520px;
+    position: absolute;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50%;
+}
+.last-new-york1{
+    color: black;
+    margin-top: -510px;
+    margin-left: 120px;
+
+}
+
+.r{
+    margin-top: 7px;
+    margin-left: 19px;
+
+  
+   
+    
+
+}
+.readmore1{
+    border: 1px solid rgb(21, 11, 11);
+    border-radius: 30px;
+    width: 140px;
+    height: 38px;
+    margin-left: 70px;
+    margin-top: 100px;
+    position: absolute;
+    
+
+}
+@media (max-width:700px) {
+    .maincontentitem1{
+        flex-direction: column;
+    }
+    
+}
